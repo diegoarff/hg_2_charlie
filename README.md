@@ -1,5 +1,5 @@
 # hg_2_charlie
-Repository for the first hack of the Social Oplesk Advanced Backend course.
+Repository for the second hack of the Social Oplesk Advanced Backend course.
 
 <table align="center" >
   <tr>
